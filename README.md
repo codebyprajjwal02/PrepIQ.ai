@@ -2,37 +2,47 @@
 PrepIQ.ai is a full-stack SaaS-style web application designed to help users prepare for interviews using intelligent AI-driven workflows. The platform goes beyond basic CRUD functionality by integrating real-world SaaS features such as authentication, credit-based usage, payments, and AI-powered analysis.
 
 ✨ Key Features
+
 📄 Resume-Based Intelligence
+
 Users can upload their resumes (PDF format)
 System parses and analyzes content
 Generates personalized interview questions based on skills and experience
+
 🤖 AI-Generated Interview System
+
 Dynamic generation of:
 Technical questions
 HR/behavioral questions
 Tailored difficulty and relevance based on user profile
+
 🧠 Intelligent Feedback Engine
 Users can practice answers
 AI evaluates responses and provides:
 Improvement suggestions
 Performance insights
 Structured feedback
+
 💳 Credit-Based Usage System
 Each AI action consumes credits
 Users manage usage efficiently
 Mimics real SaaS monetization model
+
 💰 Payment Integration (Razorpay)
 Secure credit purchasing system
 Seamless payment flow
 Real-world billing experience
+
 🎨 Modern UI/UX
 Built with smooth animations using Framer Motion
 Clean, responsive, and user-friendly interface
 Optimized for performance and engagement
+
 🌐 Full Stack Deployment
 Fully deployed on Render
 Production-ready architecture
 Scalable backend and frontend setup
+
 🏗️ Tech Stack
 
 Frontend:
